@@ -1,12 +1,14 @@
 # Schema Design
 ---
 
-In this project, we focused on introducing database schema designs and utilized pgAdmin to create a relational database. Our database schema represents individuals, their locations, and interests. Using SQL query statements, we manipulated data within the database, connecting individuals who are in the same location or share common interests.
+In this project, we focused on introducing database schema designs and utilized pgAdmin to create a relational database. Our database schema represents individuals, their locations, and interests. Using SQL query statements, we manipulated data within the database, finding connections such as  individuals who are in the same location or share common interests.
+
+## Program used
+pgAdmin - database and SQL Querying
 
 ## Steps
 ---
 1. Create the below ERD in PGAdmin with all of the columns listed. Use appropriate types for the data based on what you think that data represents.
-
 
   ![Schema-ERD](https://user-images.githubusercontent.com/32781877/217583244-3868462a-25a7-4fcd-977b-13cc259e7774.png)
     
@@ -34,7 +36,7 @@ In this project, we focused on introducing database schema designs and utilized 
    |  Barbe     |   Purver   |  50  |      3      |
    |  Reeta     |   Sammons  |  34  |      2      |
    |  Abbott    |  Fisbburne |  49  |      1      |
-   |  Winnie     |   Whines   |  19  |      4      |
+   |  Winnie    |   Whines   |  19  |      4      |
    |  Samantha  |   Leese    |  35  |      2      |
    |  Edouard   |  Lorimer   |  29  |      1      |
    |  Mattheus  |  Shaplin   |  27  |      3      |
