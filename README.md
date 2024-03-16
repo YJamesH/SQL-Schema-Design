@@ -3,7 +3,7 @@
 
 In this project, we focused on introducing database schema designs and utilized pgAdmin to create a relational database. Our database schema represents individuals, their locations, and interests. Using SQL query statements, we manipulated data within the database, finding connections such as  individuals who are in the same location or share common interests.
 
-## Program used
+## Technologies
 pgAdmin - database and SQL Querying
 
 ## Steps
